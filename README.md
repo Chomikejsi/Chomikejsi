@@ -61,7 +61,7 @@ Najbardziej interesują mnie:
 
 ## Dla rekrutera
 
-Jeśli przeglądasz mój profil rekrutacyjnie, najlepiej zacząć od projektów webowych i repozytoriów GoIT. Pokazują moje podstawy techniczne, a kolejne projekty będą coraz mocniej skręcały w stronę AI, automatyzacji i praktycznych narzędzi.
+Jeśli przeglądasz mój profil rekrutacyjnie, najlepiej zacząć od projektów webowych i portfolio live. Pokazują moje podstawy techniczne, a kolejne projekty będą coraz mocniej skręcały w stronę AI, automatyzacji i praktycznych narzędzi.
 
 ---
 
