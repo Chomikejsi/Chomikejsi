@@ -5,6 +5,10 @@
 <h1 align="center">Konrad | AI & Automation</h1>
 
 <p align="center">
+  <a href="https://chomikejsi.github.io/Chomikejsi/"><strong>Portfolio live</strong></a>
+</p>
+
+<p align="center">
   Rozwijam się w kierunku AI, automatyzacji i narzędzi, które realnie usprawniają codzienną pracę.
   Buduję fundamenty w JavaScript, React i API, żeby tworzyć praktyczne aplikacje, integracje oraz automatyzacje.
 </p>
