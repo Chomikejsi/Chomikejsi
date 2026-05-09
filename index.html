@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Portfolio Konrada: AI & Automation, frontend, automatyzacje, projekty webowe i praktyczne narzedzia."
+    />
+    <title>Konrad | AI & Automation Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Powrot na poczatek">
+        <span class="brand__mark">K</span>
+        <span>Konrad</span>
+      </a>
+      <nav class="nav" aria-label="Glowna nawigacja">
+        <a href="#projekty">Projekty</a>
+        <a href="#warsztat">Warsztat</a>
+        <a href="https://github.com/Chomikejsi" target="_blank" rel="noreferrer">GitHub</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero__glow hero__glow--one"></div>
+        <div class="hero__glow hero__glow--two"></div>
+
+        <div class="hero__content reveal">
+          <p class="eyebrow">AI & Automation in progress</p>
+          <h1>Buduje projekty webowe i automatyzacje, ktore maja realnie ulatwiac prace.</h1>
+          <p class="hero__lead">
+            Rozwijam sie w kierunku AI, integracji z API i narzedzi, ktore lacza solidny frontend
+            z praktycznym usprawnianiem powtarzalnych zadan.
+          </p>
+
+          <div class="hero__actions">
+            <a class="button button--primary" href="#projekty">Zobacz projekty</a>
+            <a class="button button--ghost" href="https://github.com/Chomikejsi" target="_blank" rel="noreferrer">
+              Profil GitHub
+            </a>
+          </div>
+
+          <ul class="stack-list" aria-label="Glowne technologie">
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>API</li>
+            <li>AI workflows</li>
+            <li>Sass</li>
+          </ul>
+        </div>
+
+        <aside class="hero-card reveal" aria-label="Podsumowanie profilu">
+          <img src="./assets/profile-banner.png" alt="Konrad - AI & Automation" />
+          <div class="hero-card__body">
+            <span class="status-dot"></span>
+            <p>Portfolio rozwijane jako zapis nauki, poprawiania kodu i budowania kierunku pod AI & Automation.</p>
+          </div>
+        </aside>
+      </section>
+
+      <section id="warsztat" class="section intro reveal">
+        <p class="eyebrow">Co chce pokazac</p>
+        <h2>Nie tylko ladne ekrany, ale tez myslenie procesowe.</h2>
+        <div class="intro__grid">
+          <article>
+            <span>01</span>
+            <h3>Responsywnosc</h3>
+            <p>Poprawiam layouty tak, aby dzialaly na telefonie, tablecie i desktopie bez rozjezdzania elementow.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Automatyzacja</h3>
+            <p>Interesuja mnie workflow, integracje z API i narzedzia, ktore ograniczaja reczna, powtarzalna prace.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>AI w praktyce</h3>
+            <p>Traktuje AI jako wsparcie kodowania, analizy, porzadkowania informacji i tworzenia pomocnych aplikacji.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="projekty" class="section projects">
+        <div class="section__heading reveal">
+          <p class="eyebrow">Wybrane projekty</p>
+          <h2>Projekty pojawiaja sie w ruchu, bo portfolio ma zyc, a nie tylko stac w miejscu.</h2>
+        </div>
+
+        <div class="project-list">
+          <article class="project-card reveal">
+            <div class="project-card__image">
+              <img src="./assets/project-szopokalipsy.png" alt="Podglad projektu Jezdzcy Szopokalipsy" />
+            </div>
+            <div class="project-card__content">
+              <p class="project-card__kicker">Team project / landing page</p>
+              <h3>Jezdzcy Szopokalipsy</h3>
+              <p>
+                Projekt grupowy zbudowany na HTML, Sass i Parcelu. Pokazuje prace z gotowa makieta,
+                struktura komponentow, assetami i responsywnym ukladem.
+              </p>
+              <div class="tags">
+                <span>HTML</span>
+                <span>Sass</span>
+                <span>Parcel</span>
+                <span>RWD</span>
+              </div>
+              <div class="project-card__links">
+                <a href="https://wiecek-k.github.io/Jezdzcy-Szopokalipsy/" target="_blank" rel="noreferrer">Live</a>
+                <a href="https://github.com/Wiecek-K/Jezdzcy-Szopokalipsy" target="_blank" rel="noreferrer">Kod</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="project-card project-card--reverse reveal">
+            <div class="project-card__image">
+              <img src="./assets/project-webstudio.png" alt="Podglad projektu WebStudio" />
+            </div>
+            <div class="project-card__content">
+              <p class="project-card__kicker">Portfolio-ready rebuild</p>
+              <h3>WebStudio</h3>
+              <p>
+                Strona poprawiona pod portfolio: lepszy header, animacje, hover states, wersja mobilna,
+                tabletowa, modal i czytelniejsze README z linkiem do live demo.
+              </p>
+              <div class="tags">
+                <span>HTML</span>
+                <span>CSS</span>
+                <span>JavaScript</span>
+                <span>GitHub Pages</span>
+              </div>
+              <div class="project-card__links">
+                <a href="https://chomikejsi.github.io/goit-markup-hw-08/" target="_blank" rel="noreferrer">Live</a>
+                <a href="https://github.com/Chomikejsi/goit-markup-hw-08" target="_blank" rel="noreferrer">Kod</a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section closing reveal">
+        <p class="eyebrow">Nastepny krok</p>
+        <h2>Od projektow frontendowych do narzedzi AI, agentow i automatyzacji.</h2>
+        <p>
+          To portfolio bedzie roslo razem z kolejnymi projektami: od responsywnych stron, przez
+          integracje API, az po praktyczne aplikacje wspierane przez AI.
+        </p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Konrad - AI & Automation</p>
+      <a href="https://github.com/Chomikejsi" target="_blank" rel="noreferrer">github.com/Chomikejsi</a>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
