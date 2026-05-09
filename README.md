@@ -1,41 +1,66 @@
-Cześć, jestem Konrad
-Rozwijam się w kierunku AI, automatyzacji i narzędzi, które realnie usprawniają codzienną pracę. Buduję solidne podstawy programistyczne w JavaScript, React i web developmencie, bo traktuję je jako bazę do tworzenia automatyzacji, integracji z API, agentów AI i praktycznych aplikacji wspierających ludzi w powtarzalnych zadaniach.
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Konrad - AI & Automation" width="100%" />
+</p>
 
-Nad czym pracuję
-rozwijam projekty webowe i poprawiam je tak, żeby były czytelne, responsywne i gotowe do portfolio,
-uczę się pisać automatyzacje, które oszczędzają czas i ograniczają ręczną, powtarzalną pracę,
-interesuję się wykorzystaniem AI w praktyce: od analizy danych i tekstu po wsparcie kodowania oraz procesów biznesowych,
-buduję fundamenty pod tworzenie narzędzi łączących frontend, API, automatyzacje i modele AI,
-przygotowuję GitHuba tak, żeby pokazywał mój kierunek: technologia, produktywność, automatyzacja i AI.
-Technologie
-HTML5
-CSS3
-JavaScript
-React
-Node.js
-API
-AI
-Git
-GitHub
-Sass
+<h1 align="center">Konrad | AI & Automation</h1>
 
-Co już potrafię pokazać w kodzie
-tworzenie responsywnych stron na podstawie projektu,
-praca z obrazami srcset i układami mobile/tablet/desktop,
-podstawowe interakcje w JavaScript,
-komponentowe myślenie w React,
-korzystanie z GitHuba jako miejsca do dokumentowania postępów,
-poprawianie starszego kodu pod czytelność, semantykę i prezentację portfolio,
-myślenie procesowe: jak uprościć zadanie, zautomatyzować krok albo przygotować kod pod dalszą integrację.
-Wybrane kierunki rozwoju
-Aktualnie skupiam się na przejściu od klasycznych projektów frontendowych do narzędzi opartych o automatyzację i AI. Interesują mnie szczególnie:
+<p align="center">
+  Rozwijam się w kierunku AI, automatyzacji i narzędzi, które realnie usprawniają codzienną pracę.
+  Buduję fundamenty w JavaScript, React i API, żeby tworzyć praktyczne aplikacje, integracje oraz automatyzacje.
+</p>
 
-automatyzacja powtarzalnych zadań,
-integracje z API,
-AI jako wsparcie pracy, nauki i analizy,
-tworzenie prostych narzędzi wewnętrznych,
-agentowe workflow i aplikacje, które pomagają szybciej podejmować decyzje.
-Kontakt
-Jeśli przeglądasz mój profil rekrutacyjnie, najlepiej zacząć od projektów webowych i repozytoriów GoIT. Pokazują moje podstawy, a kolejne projekty będą coraz mocniej skręcały w stronę AI, automatyzacji i praktycznych narzędzi.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_&_Automation-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Automation" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
+</p>
 
-Profil jest w trakcie rozwoju, ale traktuję go jak portfolio: ma pokazywać nie tylko efekt końcowy, ale też regularną naukę, poprawianie kodu i świadome budowanie warsztatu pod specjalizację AI & Automation.
+---
+
+## Nad czym pracuję
+
+- rozwijam projekty webowe i poprawiam je tak, żeby były czytelne, responsywne i gotowe do portfolio,
+- uczę się pisać automatyzacje, które oszczędzają czas i ograniczają ręczną pracę,
+- interesuję się praktycznym wykorzystaniem AI w analizie, kodowaniu i procesach biznesowych,
+- buduję fundamenty pod narzędzia łączące frontend, API, automatyzacje i modele AI,
+- porządkuję GitHuba tak, żeby pokazywał mój kierunek: technologia, produktywność, automatyzacja i AI.
+
+## Technologie
+
+| Obszar | Technologie |
+| --- | --- |
+| Frontend | HTML, CSS, Sass, JavaScript, React |
+| Automatyzacja | API, workflow, integracje, narzędzia produktywności |
+| AI | modele językowe, automatyzacja zadań, analiza tekstu, agentowe workflow |
+| Narzędzia | Git, GitHub, VS Code |
+
+## Co chcę pokazywać w projektach
+
+- responsywne strony i aplikacje,
+- czysty, czytelny kod,
+- dobre README i opis celu projektu,
+- poprawianie starszych repozytoriów pod portfolio,
+- myślenie procesowe: jak uprościć zadanie, zautomatyzować krok albo przygotować kod pod integrację.
+
+## Kierunek rozwoju
+
+Moim celem jest specjalizacja w **AI & Automation**: chcę tworzyć narzędzia, które pomagają szybciej wykonywać powtarzalne zadania, analizować informacje i usprawniać codzienną pracę.
+
+Najbardziej interesują mnie:
+
+- automatyzacja powtarzalnych zadań,
+- integracje z API,
+- AI jako wsparcie pracy, nauki i analizy,
+- proste narzędzia wewnętrzne,
+- agentowe workflow i aplikacje wspierające decyzje.
+
+## Dla rekrutera
+
+Jeśli przeglądasz mój profil rekrutacyjnie, najlepiej zacząć od projektów webowych i repozytoriów GoIT. Pokazują moje podstawy techniczne, a kolejne projekty będą coraz mocniej skręcały w stronę AI, automatyzacji i praktycznych narzędzi.
+
+---
+
+<p align="center">
+  Profil jest w trakcie rozwoju, ale traktuję go jak portfolio: ma pokazywać regularną naukę, poprawianie kodu i świadome budowanie warsztatu pod specjalizację AI & Automation.
+</p>
