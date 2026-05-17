@@ -25,10 +25,19 @@
 ## Nad czym pracuję
 
 - rozwijam projekty webowe i poprawiam je tak, żeby były czytelne, responsywne i gotowe do portfolio,
+- buduję **LegitLens** — rozszerzenie Chrome/Edge do analizy zaufania stron, phishingu, scamów i podejrzanych formularzy,
 - uczę się pisać automatyzacje, które oszczędzają czas i ograniczają ręczną pracę,
 - interesuję się praktycznym wykorzystaniem AI w analizie, kodowaniu i procesach biznesowych,
 - buduję fundamenty pod narzędzia łączące frontend, API, automatyzacje i modele AI,
 - porządkuję GitHuba tak, żeby pokazywał mój kierunek: technologia, produktywność, automatyzacja i AI.
+
+## Wybrane projekty
+
+| Projekt | Opis | Link |
+| --- | --- | --- |
+| LegitLens | Polski skaner zaufania stron: kontekst, domeny, formularze, linki, BLIK, kurierzy i ochrona przed fałszywymi alarmami. | [Repozytorium](https://github.com/Chomikejsi/legitlens-extension) |
+| Jeźdźcy Szopokalipsy | Projekt grupowy z responsywnym layoutem, Sass i Parcel. | [Live](https://wiecek-k.github.io/Jezdzcy-Szopokalipsy/) |
+| WebStudio | Responsywna strona agencji z animacjami, modalem i dopracowanym układem. | [Portfolio live](https://chomikejsi.github.io/Chomikejsi/) |
 
 ## Technologie
 

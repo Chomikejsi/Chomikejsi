@@ -23,6 +23,7 @@
         <span>Konrad</span>
       </a>
       <nav class="nav" aria-label="Glowna nawigacja">
+        <a href="#legitlens">LegitLens</a>
         <a href="#projekty">Projekty</a>
         <a href="#warsztat">Warsztat</a>
         <a href="https://github.com/Chomikejsi" target="_blank" rel="noreferrer">GitHub</a>
@@ -44,6 +45,7 @@
 
           <div class="hero__actions">
             <a class="button button--primary" href="#projekty">Zobacz projekty</a>
+            <a class="button button--ghost" href="#legitlens">LegitLens</a>
             <a class="button button--ghost" href="https://github.com/Chomikejsi" target="_blank" rel="noreferrer">
               Profil GitHub
             </a>
@@ -96,6 +98,47 @@
         </div>
 
         <div class="project-list">
+          <article id="legitlens" class="project-card project-card--featured reveal">
+            <a
+              class="project-card__image project-card__image--product"
+              href="https://github.com/Chomikejsi/legitlens-extension"
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Otworz repozytorium projektu LegitLens"
+            >
+              <img src="./assets/project-legitlens.png" alt="Podglad projektu LegitLens" />
+            </a>
+            <div class="project-card__content">
+              <p class="project-card__kicker">Chrome extension / AI trust engine</p>
+              <h3>LegitLens</h3>
+              <p>
+                Rozszerzenie przegladarkowe do oceny zaufania stron. Analizuje kontekst,
+                domeny, formularze, linki, polskie schematy scamow i chronione marki,
+                ale stara sie ograniczac falszywe alarmy na normalnych stronach.
+              </p>
+
+              <div class="project-stats" aria-label="Najwazniejsze cechy LegitLens">
+                <span><strong>10</strong> warstw zaufania</span>
+                <span><strong>1100+</strong> scenariuszy testowych</span>
+                <span><strong>PL</strong> internet, banki, BLIK i kurierzy</span>
+              </div>
+
+              <div class="tags">
+                <span>JavaScript</span>
+                <span>Chrome MV3</span>
+                <span>Cybersecurity</span>
+                <span>AI Context</span>
+                <span>Tests</span>
+              </div>
+              <div class="project-card__links">
+                <a href="https://github.com/Chomikejsi/legitlens-extension" target="_blank" rel="noreferrer">Kod</a>
+                <a href="https://github.com/Chomikejsi/legitlens-extension#instalacja-lokalna" target="_blank" rel="noreferrer">
+                  Instalacja
+                </a>
+              </div>
+            </div>
+          </article>
+
           <article class="project-card reveal">
             <a
               class="project-card__image"
