@@ -37,7 +37,7 @@
 | --- | --- | --- |
 | LegitLens | Polski skaner zaufania stron: kontekst, domeny, formularze, linki, BLIK, kurierzy i ochrona przed fałszywymi alarmami. | [Repozytorium](https://github.com/Chomikejsi/legitlens-extension) |
 | Jeźdźcy Szopokalipsy | Projekt grupowy z responsywnym layoutem, Sass i Parcel. | [Live](https://wiecek-k.github.io/Jezdzcy-Szopokalipsy/) |
-| WebStudio | Responsywna strona agencji z animacjami, modalem i dopracowanym układem. | [Portfolio live](https://chomikejsi.github.io/Chomikejsi/) |
+| WebStudio | Responsywna strona agencji z animacjami, modalem i dopracowanym układem. | [Live](https://chomikejsi.github.io/Chomikejsi/webstudio.html) |
 
 ## Technologie
 
